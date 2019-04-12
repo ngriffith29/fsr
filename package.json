@@ -1,0 +1,14 @@
+{
+  "name": "fsr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ngriffith29/fsr",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^4.1.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "pg": "^7.9.0"
+  }
+}
